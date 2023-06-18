@@ -14,3 +14,5 @@
 dist
 node_modules
 .turbo
+
+.DS_Store
